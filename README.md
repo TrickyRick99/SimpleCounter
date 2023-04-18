@@ -17,9 +17,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://www.screentogif.com/SimpleCounterTest.gif' title='Simple Counter' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
+<img src="https://i.ibb.co/6ynYZVp/Simple-Counter-Test.gif" alt="Simple-Counter-Test" border="0">
 
 ## Notes
 
